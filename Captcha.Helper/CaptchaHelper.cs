@@ -48,16 +48,5 @@ namespace Captcha.Helper
             bool CaptchaControl = CryptedInputValue == CaptchaValue.CaptchaValue;
             return await Task.FromResult(CaptchaControl);
         }
-
-        //public async Task<string> CreateCaptcha()
-        //{
-        //    var captchaModel = GenerateForSumQuestionCaptcha();
-
-        //    string crypted = await cryptoHelper.Encrypt(captchaModel.CaptchaValue);
-
-        //    string decrypted = await cryptoHelper.Decrypt(crypted);
-
-        //    return await Task.FromResult(crypted);
-        //}
     }
 }
