@@ -1,0 +1,15 @@
+/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/CaptchaTest.ConsoleApp/bin/Debug/netcoreapp3.1/CaptchaTest.ConsoleApp.deps.json
+/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/CaptchaTest.ConsoleApp/bin/Debug/netcoreapp3.1/CaptchaTest.ConsoleApp.runtimeconfig.json
+/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/CaptchaTest.ConsoleApp/bin/Debug/netcoreapp3.1/CaptchaTest.ConsoleApp.runtimeconfig.dev.json
+/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/CaptchaTest.ConsoleApp/bin/Debug/netcoreapp3.1/CaptchaTest.ConsoleApp.dll
+/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/CaptchaTest.ConsoleApp/bin/Debug/netcoreapp3.1/CaptchaTest.ConsoleApp.pdb
+/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/CaptchaTest.ConsoleApp/bin/Debug/netcoreapp3.1/Captcha.Helper.dll
+/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/CaptchaTest.ConsoleApp/bin/Debug/netcoreapp3.1/Captcha.Helper.pdb
+/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/CaptchaTest.ConsoleApp/obj/Debug/netcoreapp3.1/CaptchaTest.ConsoleApp.csprojAssemblyReference.cache
+/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/CaptchaTest.ConsoleApp/obj/Debug/netcoreapp3.1/CaptchaTest.ConsoleApp.AssemblyInfoInputs.cache
+/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/CaptchaTest.ConsoleApp/obj/Debug/netcoreapp3.1/CaptchaTest.ConsoleApp.AssemblyInfo.cs
+/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/CaptchaTest.ConsoleApp/obj/Debug/netcoreapp3.1/CaptchaTest.ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/CaptchaTest.ConsoleApp/obj/Debug/netcoreapp3.1/CaptchaTest.ConsoleApp.csproj.CopyComplete
+/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/CaptchaTest.ConsoleApp/obj/Debug/netcoreapp3.1/CaptchaTest.ConsoleApp.dll
+/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/CaptchaTest.ConsoleApp/obj/Debug/netcoreapp3.1/CaptchaTest.ConsoleApp.pdb
+/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/CaptchaTest.ConsoleApp/obj/Debug/netcoreapp3.1/CaptchaTest.ConsoleApp.genruntimeconfig.cache

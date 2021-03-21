@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Test Form";
+}
+
+<div class="text-center">
+    <img src="~/Home/CaptchaImage?v=@Guid.NewGuid()" />
+    <br/>
+    <div>
+        @using(Html.BeginForm("TestForm", "Home", FormMethod.Post))
+        {
+            <input type="text" name="value" placeholder="cevabı giriniz" />
+            <br/>
+            <input type="submit" value="Gönder" />
+        }
+    </div>
+    <div>
+        @if (ViewBag.CaptchaControl != null)
+        {
+            if (ViewBag.CaptchaControl)
+            {
+                <div>İşlem Sonucu Doğru</div>
+            }
+            else
+            {
+                <div>İşlem Sonucu Hatalı</div>
+            }
+        }
+        
+    </div>
+</div>

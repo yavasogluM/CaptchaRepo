@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Captcha.Helper/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Captcha.Helper.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Captcha.Helper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Captcha.Helper/1.0.0": {
+      "type": "project",
+      "path": "../Captcha.Helper/Captcha.Helper.csproj",
+      "msbuildProject": "../Captcha.Helper/Captcha.Helper.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Captcha.Helper >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/metin/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/CaptchaTest.ConsoleApp/CaptchaTest.ConsoleApp.csproj",
+      "projectName": "CaptchaTest.ConsoleApp",
+      "projectPath": "/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/CaptchaTest.ConsoleApp/CaptchaTest.ConsoleApp.csproj",
+      "packagesPath": "/Users/metin/.nuget/packages/",
+      "outputPath": "/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/CaptchaTest.ConsoleApp/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/metin/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/Captcha.Helper/Captcha.Helper.csproj": {
+              "projectPath": "/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/Captcha.Helper/Captcha.Helper.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

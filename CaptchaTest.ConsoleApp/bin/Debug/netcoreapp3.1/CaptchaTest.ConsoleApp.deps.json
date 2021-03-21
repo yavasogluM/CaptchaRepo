@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CaptchaTest.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "Captcha.Helper": "1.0.0"
+        },
+        "runtime": {
+          "CaptchaTest.ConsoleApp.dll": {}
+        }
+      },
+      "Captcha.Helper/1.0.0": {
+        "runtime": {
+          "Captcha.Helper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CaptchaTest.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Captcha.Helper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,8 @@
+/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/Captcha.Helper/bin/Debug/netcoreapp3.1/Captcha.Helper.deps.json
+/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/Captcha.Helper/bin/Debug/netcoreapp3.1/Captcha.Helper.dll
+/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/Captcha.Helper/bin/Debug/netcoreapp3.1/Captcha.Helper.pdb
+/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/Captcha.Helper/obj/Debug/netcoreapp3.1/Captcha.Helper.AssemblyInfoInputs.cache
+/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/Captcha.Helper/obj/Debug/netcoreapp3.1/Captcha.Helper.AssemblyInfo.cs
+/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/Captcha.Helper/obj/Debug/netcoreapp3.1/Captcha.Helper.csproj.CoreCompileInputs.cache
+/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/Captcha.Helper/obj/Debug/netcoreapp3.1/Captcha.Helper.dll
+/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/Captcha.Helper/obj/Debug/netcoreapp3.1/Captcha.Helper.pdb
