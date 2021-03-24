@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NvJl2RxnyL5V0tLxqK8NfcUsvLSiiN8ALgA9hFxnCMQFZtqtI8/a/fM8ju/kUIQIreTsOYyP71d0bWJBA91sGg==",
+  "dgSpecHash": "o+GdVxx7bi3XUyis0Wo9pyvb3dVz6nMHkT5sOv5fLom04p4Tc967ORKD0DAuEA8Sxy6Vuq1UUT4Ao2NY2Dktuw==",
   "success": true,
-  "projectFilePath": "/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/Captcha.Web/Captcha.Web.csproj",
+  "projectFilePath": "/Users/metin/Desktop/Projects/CaptchaRepo/Captcha.Web/Captcha.Web.csproj",
   "expectedPackageFiles": [
     "/Users/metin/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "/Users/metin/.nuget/packages/microsoft.win32.systemevents/5.0.0/microsoft.win32.systemevents.5.0.0.nupkg.sha512",

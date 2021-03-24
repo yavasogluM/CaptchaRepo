@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/Captcha.Helper/Captcha.Helper.csproj": {}
+    "/Users/metin/Desktop/Projects/CaptchaRepo/Captcha.Helper/Captcha.Helper.csproj": {}
   },
   "projects": {
-    "/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/Captcha.Helper/Captcha.Helper.csproj": {
+    "/Users/metin/Desktop/Projects/CaptchaRepo/Captcha.Helper/Captcha.Helper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/Captcha.Helper/Captcha.Helper.csproj",
+        "projectUniqueName": "/Users/metin/Desktop/Projects/CaptchaRepo/Captcha.Helper/Captcha.Helper.csproj",
         "projectName": "Captcha.Helper",
-        "projectPath": "/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/Captcha.Helper/Captcha.Helper.csproj",
+        "projectPath": "/Users/metin/Desktop/Projects/CaptchaRepo/Captcha.Helper/Captcha.Helper.csproj",
         "packagesPath": "/Users/metin/.nuget/packages/",
-        "outputPath": "/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/Captcha.Helper/obj/",
+        "outputPath": "/Users/metin/Desktop/Projects/CaptchaRepo/Captcha.Helper/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/metin/.config/NuGet/NuGet.Config"

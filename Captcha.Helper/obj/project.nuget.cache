@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UUAaQBrqkVMzdA3RE6B/AQ8+NciReFLl5jv1Zqz5YzBDrnNqI1PP4Shl0m0gwMYMkmzHE/MrXYIfyLA5U2tR3g==",
+  "dgSpecHash": "1lPc+0EAxWZvQfURabe16/Wjm8nKsWA/CXu3CetAsl2UawJ9xHqHJt4KxaEl6UOSHPvzwYZqGgy15hQC9z2qXw==",
   "success": true,
-  "projectFilePath": "/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/Captcha.Helper/Captcha.Helper.csproj",
+  "projectFilePath": "/Users/metin/Desktop/Projects/CaptchaRepo/Captcha.Helper/Captcha.Helper.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

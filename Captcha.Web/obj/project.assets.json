@@ -170,11 +170,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/Captcha.Web/Captcha.Web.csproj",
+      "projectUniqueName": "/Users/metin/Desktop/Projects/CaptchaRepo/Captcha.Web/Captcha.Web.csproj",
       "projectName": "Captcha.Web",
-      "projectPath": "/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/Captcha.Web/Captcha.Web.csproj",
+      "projectPath": "/Users/metin/Desktop/Projects/CaptchaRepo/Captcha.Web/Captcha.Web.csproj",
       "packagesPath": "/Users/metin/.nuget/packages/",
-      "outputPath": "/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/Captcha.Web/obj/",
+      "outputPath": "/Users/metin/Desktop/Projects/CaptchaRepo/Captcha.Web/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/metin/.config/NuGet/NuGet.Config"
@@ -189,8 +189,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/Captcha.Helper/Captcha.Helper.csproj": {
-              "projectPath": "/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/Captcha.Helper/Captcha.Helper.csproj"
+            "/Users/metin/Desktop/Projects/CaptchaRepo/Captcha.Helper/Captcha.Helper.csproj": {
+              "projectPath": "/Users/metin/Desktop/Projects/CaptchaRepo/Captcha.Helper/Captcha.Helper.csproj"
             }
           }
         }

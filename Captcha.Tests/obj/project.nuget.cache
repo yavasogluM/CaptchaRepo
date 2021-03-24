@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S8/s7xpep6lw/kRSHdmPJ+A9/1CMhWagh3p8v8/MI9+JzViq+ybGAH/qlcshqSNv7OOE2U0y/dX5ZMpQ/HGk4w==",
+  "dgSpecHash": "CTgNTuJsoz3P8GA6UdM+e5cbcaMexMW3QIfGvBGIKy/PZvaPhXmloR2f98R2o3A77fVzM+80/xfMEdEd0AcYgA==",
   "success": true,
-  "projectFilePath": "/Users/metin/Desktop/Projects/CaptchaRepo/src/Captcha/Captcha.Tests/Captcha.Tests.csproj",
+  "projectFilePath": "/Users/metin/Desktop/Projects/CaptchaRepo/Captcha.Tests/Captcha.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/metin/.nuget/packages/coverlet.collector/1.2.0/coverlet.collector.1.2.0.nupkg.sha512",
     "/Users/metin/.nuget/packages/microsoft.codecoverage/16.5.0/microsoft.codecoverage.16.5.0.nupkg.sha512",

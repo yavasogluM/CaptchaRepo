@@ -18,7 +18,7 @@
     "Captcha.Web": {
       "commandName": "Project",
       "launchBrowser": true,
-      "applicationUrl": "https://localhost:45971;http://localhost:52190",
+      "applicationUrl": "https://localhost:45972;http://localhost:52192",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

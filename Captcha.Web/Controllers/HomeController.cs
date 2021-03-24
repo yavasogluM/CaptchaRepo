@@ -47,6 +47,7 @@ namespace Captcha.Web.Controllers
                 Response.Cookies.Append("CAPTCHAVALUE", captcha.CaptchaValue, cookie);
 
                 string fileName = Helper.DrawHelper.DrawImage(captcha.CaptchaText, _env.ContentRootPath + "/wwwroot/Uploads/");
+
                 return File($"/Uploads/{fileName}", "image/jpeg");
             }
             catch (Exception ex)
